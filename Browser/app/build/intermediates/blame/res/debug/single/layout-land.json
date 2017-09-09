@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/devansh/Devansh/AndroidStudioProjects/Browser/app/build/intermediates/res/merged/debug/layout-land/activity_webview.xml",
+        "source": "/home/devansh/Devansh/AndroidStudioProjects/Browser/app/src/main/res/layout-land/activity_webview.xml"
+    },
+    {
+        "merged": "/home/devansh/Devansh/AndroidStudioProjects/Browser/app/build/intermediates/res/merged/debug/layout-land/activity_input.xml",
+        "source": "/home/devansh/Devansh/AndroidStudioProjects/Browser/app/src/main/res/layout-land/activity_input.xml"
+    }
+]
